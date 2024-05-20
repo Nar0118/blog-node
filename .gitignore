@@ -1,0 +1,47 @@
+# compiled output
+/dist
+/tmp
+/src/styles.ts
+
+# dependencies
+/node_modules
+
+# IDEs and editors
+/.idea
+*.launch
+*.sublime-workspace
+.c9/
+.classpath
+.project
+.settings/
+
+# IDE - VSCode
+.vscode/*
+!.vscode/extensions.json
+!.vscode/launch.json
+!.vscode/tasks.json
+
+# misc
+/.sass-cache
+/connect.lock
+/coverage/*
+/libpeerconnection.log
+/src/messages.xmb
+/typings
+npm-debug.log
+testem.log
+yarn-error.log
+yarn.lock
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# mock data for testing
+/data
+
+# Snyk cache
+.dccache
+
+# jFrog credentials
+.npmrc
